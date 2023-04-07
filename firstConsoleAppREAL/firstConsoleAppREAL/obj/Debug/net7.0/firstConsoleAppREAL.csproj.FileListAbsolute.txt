@@ -1,0 +1,15 @@
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\bin\Debug\net7.0\firstConsoleAppREAL.exe
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\bin\Debug\net7.0\firstConsoleAppREAL.deps.json
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\bin\Debug\net7.0\firstConsoleAppREAL.runtimeconfig.json
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\bin\Debug\net7.0\firstConsoleAppREAL.dll
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\bin\Debug\net7.0\firstConsoleAppREAL.pdb
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\firstConsoleAppREAL.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\firstConsoleAppREAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\firstConsoleAppREAL.AssemblyInfoInputs.cache
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\firstConsoleAppREAL.AssemblyInfo.cs
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\firstConsoleAppREAL.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\firstConsoleAppREAL.dll
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\refint\firstConsoleAppREAL.dll
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\firstConsoleAppREAL.pdb
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\firstConsoleAppREAL.genruntimeconfig.cache
+C:\Users\blastin\source\repos\firstConsoleAppREAL\firstConsoleAppREAL\obj\Debug\net7.0\ref\firstConsoleAppREAL.dll

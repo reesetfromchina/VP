@@ -1,0 +1,13 @@
+C:\Users\blastin\source\repos\Avion\Avion\bin\Debug\Avion.exe.config
+C:\Users\blastin\source\repos\Avion\Avion\bin\Debug\Avion.exe
+C:\Users\blastin\source\repos\Avion\Avion\bin\Debug\Avion.pdb
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.AddAirports.resources
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.AddDestination.resources
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.Form1.resources
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.Properties.Resources.resources
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.exe
+C:\Users\blastin\source\repos\Avion\Avion\obj\Debug\Avion.pdb

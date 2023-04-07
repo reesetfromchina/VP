@@ -1,0 +1,15 @@
+C:\Users\blastin\source\repos\av3\av3\bin\Debug\net6.0\av3.exe
+C:\Users\blastin\source\repos\av3\av3\bin\Debug\net6.0\av3.deps.json
+C:\Users\blastin\source\repos\av3\av3\bin\Debug\net6.0\av3.runtimeconfig.json
+C:\Users\blastin\source\repos\av3\av3\bin\Debug\net6.0\av3.dll
+C:\Users\blastin\source\repos\av3\av3\bin\Debug\net6.0\av3.pdb
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\av3.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\av3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\av3.AssemblyInfoInputs.cache
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\av3.AssemblyInfo.cs
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\av3.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\av3.dll
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\refint\av3.dll
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\av3.pdb
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\av3.genruntimeconfig.cache
+C:\Users\blastin\source\repos\av3\av3\obj\Debug\net6.0\ref\av3.dll

@@ -1,0 +1,12 @@
+C:\Users\blastin\source\repos\TvSerii\TvSerii\bin\Debug\TvSerii.exe.config
+C:\Users\blastin\source\repos\TvSerii\TvSerii\bin\Debug\TvSerii.exe
+C:\Users\blastin\source\repos\TvSerii\TvSerii\bin\Debug\TvSerii.pdb
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.AddTv.resources
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.Form1.resources
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.Properties.Resources.resources
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.exe
+C:\Users\blastin\source\repos\TvSerii\TvSerii\obj\Debug\TvSerii.pdb

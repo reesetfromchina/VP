@@ -1,0 +1,12 @@
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.DodadiVozac.resources
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.Form1.resources
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.Properties.Resources.resources
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\F1Driver\F1Driver\bin\Debug\F1Driver.exe.config
+C:\Users\blastin\source\repos\F1Driver\F1Driver\bin\Debug\F1Driver.exe
+C:\Users\blastin\source\repos\F1Driver\F1Driver\bin\Debug\F1Driver.pdb
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.exe
+C:\Users\blastin\source\repos\F1Driver\F1Driver\obj\Debug\F1Driver.pdb

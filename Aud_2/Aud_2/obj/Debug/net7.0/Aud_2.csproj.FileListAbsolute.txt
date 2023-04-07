@@ -1,0 +1,15 @@
+C:\Users\blastin\source\repos\Aud_2\Aud_2\bin\Debug\net7.0\Aud_2.exe
+C:\Users\blastin\source\repos\Aud_2\Aud_2\bin\Debug\net7.0\Aud_2.deps.json
+C:\Users\blastin\source\repos\Aud_2\Aud_2\bin\Debug\net7.0\Aud_2.runtimeconfig.json
+C:\Users\blastin\source\repos\Aud_2\Aud_2\bin\Debug\net7.0\Aud_2.dll
+C:\Users\blastin\source\repos\Aud_2\Aud_2\bin\Debug\net7.0\Aud_2.pdb
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\Aud_2.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\Aud_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\Aud_2.AssemblyInfoInputs.cache
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\Aud_2.AssemblyInfo.cs
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\Aud_2.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\Aud_2.dll
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\refint\Aud_2.dll
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\Aud_2.pdb
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\Aud_2.genruntimeconfig.cache
+C:\Users\blastin\source\repos\Aud_2\Aud_2\obj\Debug\net7.0\ref\Aud_2.dll

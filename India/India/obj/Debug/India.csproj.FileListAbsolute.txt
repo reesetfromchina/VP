@@ -1,0 +1,12 @@
+C:\Users\blastin\source\repos\India\India\bin\Debug\India.exe.config
+C:\Users\blastin\source\repos\India\India\bin\Debug\India.exe
+C:\Users\blastin\source\repos\India\India\bin\Debug\India.pdb
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.Form1.resources
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.Properties.Resources.resources
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.exe
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.pdb
+C:\Users\blastin\source\repos\India\India\obj\Debug\India.LoginForm.resources

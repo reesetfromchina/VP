@@ -1,0 +1,13 @@
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\bin\Debug\SportskaOblozuvalnica.exe.config
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\bin\Debug\SportskaOblozuvalnica.exe
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\bin\Debug\SportskaOblozuvalnica.pdb
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.Form1.resources
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.Properties.Resources.resources
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.exe
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.pdb
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.Form2.resources
+C:\Users\blastin\source\repos\SportskaOblozuvalnica\SportskaOblozuvalnica\obj\Debug\SportskaOblozuvalnica.TeamForm.resources

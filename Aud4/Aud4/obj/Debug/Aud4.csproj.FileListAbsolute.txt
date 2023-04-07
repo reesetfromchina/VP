@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\Aud4\Aud4\bin\Debug\Aud4.exe.config
+C:\Users\blastin\source\repos\Aud4\Aud4\bin\Debug\Aud4.exe
+C:\Users\blastin\source\repos\Aud4\Aud4\bin\Debug\Aud4.pdb
+C:\Users\blastin\source\repos\Aud4\Aud4\obj\Debug\Aud4.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\Aud4\Aud4\obj\Debug\Aud4.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\Aud4\Aud4\obj\Debug\Aud4.Form1.resources
+C:\Users\blastin\source\repos\Aud4\Aud4\obj\Debug\Aud4.Properties.Resources.resources
+C:\Users\blastin\source\repos\Aud4\Aud4\obj\Debug\Aud4.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\Aud4\Aud4\obj\Debug\Aud4.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\Aud4\Aud4\obj\Debug\Aud4.exe
+C:\Users\blastin\source\repos\Aud4\Aud4\obj\Debug\Aud4.pdb

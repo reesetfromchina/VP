@@ -1,0 +1,12 @@
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\bin\Debug\ExamQuestions.exe.config
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\bin\Debug\ExamQuestions.exe
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\bin\Debug\ExamQuestions.pdb
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.Form1.resources
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.Ispit.resources
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.Properties.Resources.resources
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.exe
+C:\Users\blastin\source\repos\ExamQuestions\ExamQuestions\obj\Debug\ExamQuestions.pdb

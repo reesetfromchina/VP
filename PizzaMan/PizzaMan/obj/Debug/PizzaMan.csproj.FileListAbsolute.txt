@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\bin\Debug\PizzaMan.exe.config
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\bin\Debug\PizzaMan.exe
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\bin\Debug\PizzaMan.pdb
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\obj\Debug\PizzaMan.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\obj\Debug\PizzaMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\obj\Debug\PizzaMan.Form1.resources
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\obj\Debug\PizzaMan.Properties.Resources.resources
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\obj\Debug\PizzaMan.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\obj\Debug\PizzaMan.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\obj\Debug\PizzaMan.exe
+C:\Users\blastin\source\repos\PizzaMan\PizzaMan\obj\Debug\PizzaMan.pdb

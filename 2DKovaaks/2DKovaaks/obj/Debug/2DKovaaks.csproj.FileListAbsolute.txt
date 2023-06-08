@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\bin\Debug\2DKovaaks.exe.config
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\bin\Debug\2DKovaaks.exe
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\bin\Debug\2DKovaaks.pdb
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\obj\Debug\2DKovaaks.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\obj\Debug\2DKovaaks.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\obj\Debug\_2DKovaaks.Form1.resources
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\obj\Debug\_2DKovaaks.Properties.Resources.resources
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\obj\Debug\2DKovaaks.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\obj\Debug\2DKovaaks.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\obj\Debug\2DKovaaks.exe
+C:\Users\blastin\source\repos\2DKovaaks\2DKovaaks\obj\Debug\2DKovaaks.pdb

@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.exe.config
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.exe
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\bin\Debug\SlidingBalls.pdb
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.Form1.resources
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.Properties.Resources.resources
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.exe
+C:\Users\blastin\source\repos\SlidingBalls\SlidingBalls\obj\Debug\SlidingBalls.pdb

@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\bin\Debug\DCZadaca.exe.config
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\bin\Debug\DCZadaca.exe
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\bin\Debug\DCZadaca.pdb
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\obj\Debug\DCZadaca.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\obj\Debug\DCZadaca.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\obj\Debug\DCZadaca.Form1.resources
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\obj\Debug\DCZadaca.Properties.Resources.resources
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\obj\Debug\DCZadaca.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\obj\Debug\DCZadaca.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\obj\Debug\DCZadaca.exe
+C:\Users\blastin\source\repos\DCZadaca\DCZadaca\obj\Debug\DCZadaca.pdb

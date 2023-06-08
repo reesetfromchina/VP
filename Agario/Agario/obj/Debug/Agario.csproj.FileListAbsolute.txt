@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\Agario\Agario\obj\Debug\Agario.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\Agario\Agario\obj\Debug\Agario.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\Agario\Agario\obj\Debug\Agario.Form1.resources
+C:\Users\blastin\source\repos\Agario\Agario\obj\Debug\Agario.Properties.Resources.resources
+C:\Users\blastin\source\repos\Agario\Agario\obj\Debug\Agario.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\Agario\Agario\obj\Debug\Agario.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\Agario\Agario\bin\Debug\Agario.exe.config
+C:\Users\blastin\source\repos\Agario\Agario\bin\Debug\Agario.exe
+C:\Users\blastin\source\repos\Agario\Agario\bin\Debug\Agario.pdb
+C:\Users\blastin\source\repos\Agario\Agario\obj\Debug\Agario.exe
+C:\Users\blastin\source\repos\Agario\Agario\obj\Debug\Agario.pdb

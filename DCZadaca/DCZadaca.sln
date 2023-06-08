@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCZadaca", "DCZadaca\DCZadaca.csproj", "{02CD31EB-A134-49B6-8A14-BEA348369EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02CD31EB-A134-49B6-8A14-BEA348369EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CD31EB-A134-49B6-8A14-BEA348369EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CD31EB-A134-49B6-8A14-BEA348369EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CD31EB-A134-49B6-8A14-BEA348369EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABCCA484-DC72-4B01-B929-381598728417}
+	EndGlobalSection
+EndGlobal

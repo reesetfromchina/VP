@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\bin\Debug\Ticking Piess.exe.config
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\bin\Debug\Ticking Piess.exe
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\bin\Debug\Ticking Piess.pdb
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\obj\Debug\Ticking Piess.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\obj\Debug\Ticking Piess.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\obj\Debug\Ticking_Piess.Form1.resources
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\obj\Debug\Ticking_Piess.Properties.Resources.resources
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\obj\Debug\Ticking Piess.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\obj\Debug\Ticking Piess.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\obj\Debug\Ticking Piess.exe
+C:\Users\blastin\source\repos\Ticking Piess\Ticking Piess\obj\Debug\Ticking Piess.pdb

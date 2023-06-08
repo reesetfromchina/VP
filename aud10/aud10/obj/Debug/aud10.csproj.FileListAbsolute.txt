@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\aud10\aud10\bin\Debug\aud10.exe.config
+C:\Users\blastin\source\repos\aud10\aud10\bin\Debug\aud10.exe
+C:\Users\blastin\source\repos\aud10\aud10\bin\Debug\aud10.pdb
+C:\Users\blastin\source\repos\aud10\aud10\obj\Debug\aud10.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\aud10\aud10\obj\Debug\aud10.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\aud10\aud10\obj\Debug\aud10.Form1.resources
+C:\Users\blastin\source\repos\aud10\aud10\obj\Debug\aud10.Properties.Resources.resources
+C:\Users\blastin\source\repos\aud10\aud10\obj\Debug\aud10.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\aud10\aud10\obj\Debug\aud10.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\aud10\aud10\obj\Debug\aud10.exe
+C:\Users\blastin\source\repos\aud10\aud10\obj\Debug\aud10.pdb

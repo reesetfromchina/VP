@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\bin\Debug\18DrawingNes.exe.config
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\bin\Debug\18DrawingNes.exe
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\bin\Debug\18DrawingNes.pdb
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\obj\Debug\18DrawingNes.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\obj\Debug\18DrawingNes.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\obj\Debug\_18DrawingNes.Form1.resources
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\obj\Debug\_18DrawingNes.Properties.Resources.resources
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\obj\Debug\18DrawingNes.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\obj\Debug\18DrawingNes.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\obj\Debug\18DrawingNes.exe
+C:\Users\blastin\source\repos\18DrawingNes\18DrawingNes\obj\Debug\18DrawingNes.pdb

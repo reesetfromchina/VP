@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\blastin\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\blastin\source\repos\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\blastin\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\Lab7\Lab7\obj\Debug\Lab7.Form1.resources
+C:\Users\blastin\source\repos\Lab7\Lab7\obj\Debug\Lab7.Properties.Resources.resources
+C:\Users\blastin\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\blastin\source\repos\Lab7\Lab7\obj\Debug\Lab7.pdb

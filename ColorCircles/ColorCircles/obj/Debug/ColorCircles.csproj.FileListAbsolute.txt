@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\bin\Debug\ColorCircles.exe.config
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\bin\Debug\ColorCircles.exe
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\bin\Debug\ColorCircles.pdb
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.Form1.resources
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.Properties.Resources.resources
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.exe
+C:\Users\blastin\source\repos\ColorCircles\ColorCircles\obj\Debug\ColorCircles.pdb

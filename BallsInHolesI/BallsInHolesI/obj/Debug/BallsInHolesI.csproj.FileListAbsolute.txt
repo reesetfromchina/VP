@@ -1,0 +1,11 @@
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\bin\Debug\BallsInHolesI.exe.config
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\bin\Debug\BallsInHolesI.exe
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\bin\Debug\BallsInHolesI.pdb
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\obj\Debug\BallsInHolesI.csproj.AssemblyReference.cache
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\obj\Debug\BallsInHolesI.csproj.SuggestedBindingRedirects.cache
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\obj\Debug\BallsInHolesI.Form1.resources
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\obj\Debug\BallsInHolesI.Properties.Resources.resources
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\obj\Debug\BallsInHolesI.csproj.GenerateResource.cache
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\obj\Debug\BallsInHolesI.csproj.CoreCompileInputs.cache
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\obj\Debug\BallsInHolesI.exe
+C:\Users\blastin\source\repos\BallsInHolesI\BallsInHolesI\obj\Debug\BallsInHolesI.pdb
